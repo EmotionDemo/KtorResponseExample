@@ -1,0 +1,14 @@
+Docker常用命令
+
+帮助命令
+docker version # 显示docker的常用信息
+docker info    #显示Docker的系统信息，包括镜像和容器的数量
+docker 命令 --help
+
+镜像命令
+cloudcentury@xxx333 ~ % docker images       
+REPOSITORY                  TAG                                        IMAGE ID       CREATED         SIZE
+hello-world                 latest                                     feb5d9fea6a5   11 months ago   13.3kB
+docker/desktop-git-helper   5a4fca126aadcd3f6cc3a011aa991de982ae7000   efe2d67c403b   13 months ago   44.2MB
+![img.png](img.png)
+
